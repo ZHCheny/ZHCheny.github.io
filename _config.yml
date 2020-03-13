@@ -1,2 +1,3 @@
-name: Hank Quinlan, Horrible Cop
+name: ZH, too late to do homework
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
